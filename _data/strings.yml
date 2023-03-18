@@ -1,7 +1,6 @@
 app:
   screenshots: Screenshots
   description: Description
-  featured: Featured in
 
 footer:
   copyright: Made with ❤️ in Colorado by <a href="https://www.kevinloeffler.com" target="_blank">Kevin Loeffler and Sara Reitz</a>
@@ -11,3 +10,5 @@ footer:
       target: _blank
     - title: Privacy
       url: /privacy
+    - title: API and Documentation
+      url: /docs
