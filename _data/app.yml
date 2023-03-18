@@ -5,7 +5,7 @@ full_description: 'AuthenticView lets you right click images on the web and have
 <br>- Available for Google Chrome'
 #android: https://telegra.ph/Replace-this-link-07-23
 #iOS: https://telegra.ph/Replace-this-link-07-23
-web: https://github.com/kevinl95/AuthenticView
+web: https://github.com/kevinl95/AuthenticView/releases/tag/v1.0
 screenshots:
   - 1.jpg
   - 2.jpg
