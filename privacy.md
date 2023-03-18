@@ -4,5 +4,4 @@ title: Privacy policy
 permalink: /privacy/
 ---
 
-Your privacy policy here
-Use this to generate one for free: https://www.freeprivacypolicy.com/free-privacy-policy-generator.php
+Our privacy policy can be found at https://www.freeprivacypolicy.com/live/3dc359a8-fd57-421a-a4fa-649bf24e6874

@@ -4,13 +4,10 @@ app:
   featured: Featured in
 
 footer:
-  copyright: Made with ❤️ in Europe 🇪🇺 by <a href="https://www.sandoche.com" target="_blank">Sandoche</a>
+  copyright: Made with ❤️ in Colorado by <a href="https://www.kevinloeffler.com" target="_blank">Kevin Loeffler and Sara Reitz</a>
   links:
     - title: Github
-      url: https://github.com/sandoche/Mobile-app-landingpage-template
-      target: _blank
-    - title: Donate
-      url: https://paypal.me/kanbanote
+      url: https://github.com/kevinl95/AuthenticView
       target: _blank
     - title: Privacy
       url: /privacy
